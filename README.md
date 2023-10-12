@@ -14,7 +14,8 @@ This HTML file represents a web page for showcasing a list of React tasks. It fe
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](![image](https://github.com/NotSoToxic/React-Tasks/assets/93981003/c1026d55-99e1-4f15-9ad6-77814c5b1f14)
+)
 
 ## Task List
 
