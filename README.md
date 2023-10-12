@@ -12,10 +12,7 @@ This is a simple web page displaying a list of React tasks with GitHub and deplo
 
 This HTML file represents a web page for showcasing a list of React tasks. It features a header, a table to display the tasks, and links to the GitHub repositories and deployment links for each task. The page is styled using embedded CSS.
 
-## Screenshot
-
-![Screenshot](![Home](https://github.com/NotSoToxic/React-Tasks/assets/93981003/afa940dc-3505-46fe-b3f8-1fd4cc1578f8)
-)
+![Background Image](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
 
 
 ## Task List
