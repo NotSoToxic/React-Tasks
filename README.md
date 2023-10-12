@@ -5,7 +5,6 @@ This is a simple web page displaying a list of React tasks with GitHub and deplo
 ## Table of Contents
 
 - [About](#about)
-- [Screenshot](#screenshot)
 - [Task List](#task-list)
 
 ## About
